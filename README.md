@@ -1,6 +1,6 @@
 # Word of God
 
-Simple, mobile **__un__**friendly joke-website using HTML CSS and jQuery
+Simple, mobile **un**friendly joke-website using HTML CSS and jQuery
 
 *The bad copy of a bad website*  
 Small changes will be applied, the site is not 100% finished (mostly on colors and images)  
