@@ -4,13 +4,6 @@ html, body {
 	overflow: hidden;
 }
 
-/* body {
-	background: url(media/bg-got-transparent.png);
-	background-color: #b9b8b8;
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-position: center;
-} */
 .bg {
 	background: url(media/bg-got-transparent.png);
 	background-color: #b9b8b8;
@@ -80,20 +73,9 @@ li a {
 	text-decoration: none;
 }
 
-/* .brand {
-	font-size: 2rem;
-	margin-left: 1rem;
-	color: #FFD028;
-	background-color: #2A6C8C;
-	padding: 7px;
-	border: 2px solid #FFD028;
-	border-radius: 25px;
-} */
-
 .footer {
 	background-color: #000;
 	color: #747474;
-	text-align: left;
 	padding: 20px 100px;
 	margin: 20px 0 0 0;
 	position: fixed;

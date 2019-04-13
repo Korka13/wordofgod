@@ -9,7 +9,7 @@ $(".nulla").on('animationend', function() {
   },5000);
   }
     var obj = document.createElement("audio");
-    obj.src = "media/nulla3.mp3";
+    obj.src = "media/nulla.mp3";
   setTimeout(function() {
     $(".nulla").addClass("big").css({"display": "initial"});
     obj.play();
